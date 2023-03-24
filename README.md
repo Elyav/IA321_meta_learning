@@ -1,7 +1,13 @@
 # meta_learning
 Projet IA en Meta-learning
 
-##Implémentation d'un scheduler via un Agent Rl
+
+## Problèmes 1 et 2 coes
+- Le fichier problème_1_code.ipynb contient les codes utilisés pour tester les différentes algorithmes sur le premier problème défini dans le rapport
+- Le fichier problème_2_TPE_BO_PSO_CMAES_code.ipynb contient les codes utilisés pour tester les algorithmes TPE, BO, PSO et CMAES
+- Le fichier graphiques.ipynb contient le codes utilisés pour générer les graphiques et produirent les statistques des techniques testés.
+
+## Implémentation d'un scheduler via un Agent Rl
 - Le code RL_SAC_2403.ipynb contient l'implémentation du meta scheduler lorsque la policy de l'agent RL est établi par l'algorithme SAC.
 - Le code RL_PPO_v2_alter_act.ipynb contient l'implémentation du meta scheduler lorsque la policy de l'agent est établi par l'algorithme PPO.
 
