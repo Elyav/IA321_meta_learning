@@ -1,8 +1,8 @@
 # meta_learning
-Projet IA en Meta-learning
+Projet IA321 - Meta-learning 
 
 
-## Problèmes 1 et 2 coes
+## Problèmes 1 et 2 codes
 - Le fichier problème_1_code.ipynb contient les codes utilisés pour tester les différentes algorithmes sur le premier problème défini dans le rapport
 - Le fichier problème_2_TPE_BO_PSO_CMAES_code.ipynb contient les codes utilisés pour tester les algorithmes TPE, BO, PSO et CMAES
 - Le fichier graphiques.ipynb contient le codes utilisés pour générer les graphiques et produirent les statistques des techniques testés.
